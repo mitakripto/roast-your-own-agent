@@ -4,6 +4,8 @@ Writes one line -- a roast of the AI agent its own team built --
 to /output/entry.txt.
 
 The line is fixed and deterministic: the same bytes on every run.
+Roasting bre, the agent that rebuilt the news image twice and still
+attached the old file both times.
 """
 
 import os
